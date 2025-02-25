@@ -25,11 +25,3 @@ A estrutura do repositório está organizada da seguinte forma:
   - `...`: Código em Python correspondente.
 
 *(Observação: Os demais capítulos serão adicionados conforme o andamento do projeto.)*
-
-## Como Utilizar
-
-1. **Clonar o Repositório:**
-
-   ```bash
-   git clone https://github.com/seu-usuario/estatistica-pratica-python.git
-   cd estatistica-pratica-python
